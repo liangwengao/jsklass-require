@@ -1,7 +1,7 @@
 {
   "name": "jsklass-es-require",
   "version": "1.0.0",
-  "description": "This is the ES6 require library of JsKlass.",
+  "description": "jsklass, framework for ES6 oop in javascript to node, inspired from https://github.com/liangwengao/jsklass-require",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,9 +14,13 @@
     "url": "git+https://github.com/liangwengao/jsklass-require.git"
   },
   "keywords": [
+    "es6",
+    "javascript",
+    "oop",
     "jsklass",
     "jsklass-require",
     "jsklass-es",
+    "js-oop",
     "klass"
   ],
   "author": "awen",
