@@ -1,0 +1,28 @@
+{
+  "name": "jsklass-es-require",
+  "version": "1.0.0",
+  "description": "This is the ES6 require library of JsKlass.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangwengao/jsklass.git"
+  },
+  "keywords": [
+    "jsklass",
+    "jsklass-require",
+    "jsklass-es",
+    "klass"
+  ],
+  "author": "awen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangwengao/jsklass/issues"
+  },
+  "homepage": "https://github.com/liangwengao/jsklass#readme"
+}
