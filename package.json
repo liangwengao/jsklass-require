@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liangwengao/jsklass.git"
+    "url": "git+https://github.com/liangwengao/jsklass-require.git"
   },
   "keywords": [
     "jsklass",
@@ -22,7 +22,7 @@
   "author": "awen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liangwengao/jsklass/issues"
+    "url": "https://github.com/liangwengao/jsklass-require/issues"
   },
-  "homepage": "https://github.com/liangwengao/jsklass#readme"
+  "homepage": "https://github.com/liangwengao/jsklass-require#readme"
 }
