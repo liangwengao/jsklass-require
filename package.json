@@ -1,6 +1,6 @@
 {
   "name": "jsklass-require",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "jsklass, framework for ES6 oop in javascript to node, inspired from https://github.com/liangwengao/jsklass-require",
   "main": "index.js",
   "directories": {
@@ -24,7 +24,7 @@
     "klass"
   ],
   "author": "awen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/liangwengao/jsklass-require/issues"
   },
